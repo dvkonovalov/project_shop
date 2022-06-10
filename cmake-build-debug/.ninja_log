@@ -1,0 +1,21 @@
+# ninja log v5
+45	2284	6758189036332163	shop/CMakeFiles/shop-test.dir/shop.cpp.obj	7ad158315e718e85
+22	1541	6758189028767296	shop/CMakeFiles/shop-test.dir/product.cpp.obj	dba03736761ff8a5
+40	1125	6758513876286528	external/doctest/libdoctest.a	2b88a4dd2a2827c1
+24	8723	6758511619108172	external/doctest/CMakeFiles/doctest.dir/doctest.cpp.obj	dccd046053d9b4a0
+5	1556	6759705821450381	shop/CMakeFiles/shop.dir/product.cpp.obj	ccd4215ca986906d
+34	2242	6758189035903303	shop/CMakeFiles/shop-test.dir/defaultlist.cpp.obj	45e7d938525c7a55
+22	1988	6759740549978992	shop/CMakeFiles/shop.dir/defaultlist.cpp.obj	db4cd445336d5a46
+8	3887	6759743846347968	shop/CMakeFiles/shop.dir/shop.cpp.obj	2c0210fee4129fd2
+3	1665	6759887993212626	shop/CMakeFiles/shop-test.dir/test.cpp.obj	10a807f04456c33d
+1676	2603	6759888002622208	shop/shop-test.exe	fc966db979b6127f
+3888	4480	6759743857226183	shop/shop.exe	e55f9c1d647472e4
+4	1337	6759898578605460	shop/CMakeFiles/shop-test.dir/test.cpp.obj	10a807f04456c33d
+1347	2014	6759898585299369	shop/shop-test.exe	fc966db979b6127f
+17	611	6759898684333931	shop/CMakeFiles/shop.dir/product.cpp.obj	ccd4215ca986906d
+24	789	6759898686216469	shop/CMakeFiles/shop.dir/main.cpp.obj	cb0d27438038b47a
+3	923	6759898687470147	shop/CMakeFiles/shop.dir/defaultlist.cpp.obj	db4cd445336d5a46
+11	978	6759898688141234	shop/CMakeFiles/shop.dir/shop.cpp.obj	2c0210fee4129fd2
+989	1135	6759898689626216	shop/shop.exe	1d461d46a41a0941
+9	3860	6760289048983536	shop/CMakeFiles/shop.dir/shop.cpp.obj	2c0210fee4129fd2
+3865	4537	6760289055649294	shop/shop.exe	1d461d46a41a0941

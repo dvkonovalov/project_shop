@@ -1,0 +1,13 @@
+D:/project_shop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/project_shop/cmake-build-debug/CMakeFiles/test.dir
+D:/project_shop/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project_shop/cmake-build-debug/external/doctest/CMakeFiles/rebuild_cache.dir
+D:/project_shop/cmake-build-debug/external/doctest/CMakeFiles/test.dir
+D:/project_shop/cmake-build-debug/external/doctest/CMakeFiles/doctest.dir
+D:/project_shop/cmake-build-debug/external/doctest/CMakeFiles/edit_cache.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/edit_cache.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/shop-test.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/shop.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/cloud-test.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/rebuild_cache.dir
+D:/project_shop/cmake-build-debug/shop/CMakeFiles/test.dir

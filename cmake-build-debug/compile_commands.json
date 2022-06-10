@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/project_shop/external/doctest -g -std=gnu++11 -o external\\doctest\\CMakeFiles\\doctest.dir\\doctest.cpp.obj -c D:\\project_shop\\external\\doctest\\doctest.cpp",
+  "file": "D:\\project_shop\\external\\doctest\\doctest.cpp"
+},
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/project_shop/external/doctest -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o shop\\CMakeFiles\\shop-test.dir\\test.cpp.obj -c D:\\project_shop\\shop\\test.cpp",
+  "file": "D:\\project_shop\\shop\\test.cpp"
+},
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o shop\\CMakeFiles\\shop.dir\\shop.cpp.obj -c D:\\project_shop\\shop\\shop.cpp",
+  "file": "D:\\project_shop\\shop\\shop.cpp"
+},
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o shop\\CMakeFiles\\shop.dir\\product.cpp.obj -c D:\\project_shop\\shop\\product.cpp",
+  "file": "D:\\project_shop\\shop\\product.cpp"
+},
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o shop\\CMakeFiles\\shop.dir\\defaultlist.cpp.obj -c D:\\project_shop\\shop\\defaultlist.cpp",
+  "file": "D:\\project_shop\\shop\\defaultlist.cpp"
+},
+{
+  "directory": "D:/project_shop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++20 -o shop\\CMakeFiles\\shop.dir\\main.cpp.obj -c D:\\project_shop\\shop\\main.cpp",
+  "file": "D:\\project_shop\\shop\\main.cpp"
+}
+]
