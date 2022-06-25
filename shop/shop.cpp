@@ -193,8 +193,11 @@ int shop::findproduct(int number) const {
 void shop::insertdeflist() {
     auto insertproduct = defaultlist();
     insertproduct.loadproduct(
-        "prod.csv"); //указывается путь к файлу csv в
-                                          //котором находится список продуктов
+        "D:/project_shop/shop/prod.csv"); //указывается путь к файлу csv в
+                                          //котором находится список продуктов.
+                                          //При сохранение на диске D,
+                                          //прописывайте путь полностью, тк
+                                          //иначе файл будет не найден
     auto clist = insertproduct.getlist();
     list = vector<product>();
     for (int i = 0; i < clist.size(); i++) {
