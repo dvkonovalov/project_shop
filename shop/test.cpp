@@ -71,7 +71,7 @@ auto start_nabor = defaultlist();
 TEST_CASE("Constructors") { REQUIRE(start_nabor.getsize() == 0); }
 
 TEST_CASE("getsize") {
-    start_nabor.loadproduct("D:/project_shop/shop/test_list.csv");
+    start_nabor.loadproduct("test_list.csv");
     REQUIRE(start_nabor.getsize() == 3);
 }
 
